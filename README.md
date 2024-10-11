@@ -1,4 +1,5 @@
-<H1>Introduction<h1>
+<H1>Introduction</H1>
+
 Welcome aboard! 🚀 As I embarked on my data science journey, I found myself navigating through a vast cosmos of information, algorithms, and insights. Like a curious astronomer gazing at the night sky, I delved into datasets, seeking patterns, constellations of knowledge, and hidden galaxies of understanding.
 
 In this project, I’ll share my experiences, discoveries, and the constellations I’ve charted along the way. From wrangling messy data to training predictive models, I’ve donned my data scientist hat and set sail across the binary seas. So, fasten your seatbelt (or adjust your Python syntax highlighting) because we’re about to launch into the heart of data science!
